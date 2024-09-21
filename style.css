@@ -1,0 +1,136 @@
+/* style.css */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: url('../img/1.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff; /* Warna font putih agar kontras dengan background */
+}
+
+header {
+  text-align: center;
+  padding: 10px 0;
+  color: #fff;
+}
+
+nav {
+  text-align: center;
+  padding: 10px 0;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #ffcc00;
+}
+
+main {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+main p {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+blockquote {
+  font-style: italic;
+  color: #fff;
+  border-left: 5px solid #ffcc00;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.7); /* Transparansi di background footer agar teks tetap terbaca */
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Bagian produk penjualan */
+.products {
+  padding: 50px 20px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparan */
+  margin-top: 40px;
+}
+
+.products h2 {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: #ffcc00;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  justify-items: center;
+}
+
+.product {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.product img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.product h3 {
+  margin: 15px 0;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.product p {
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.price {
+  display: block;
+  font-size: 1.2rem;
+  color: #ffcc00;
+  margin-bottom: 20px;
+}
+
+.product button {
+  padding: 10px 20px;
+  background-color: #ffcc00;
+  border: none;
+  color: #000;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.product button:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.product:hover {
+  transform: translateY(-10px);
+}
