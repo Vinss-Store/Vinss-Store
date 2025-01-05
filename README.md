@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **[Your Name]**, a passionate software developer specializing in **Flutter** and **Full-Stack Development**.  
+I'm **[Vinss Students]**, a passionate software developer specializing in **Flutter** and **Full-Stack Development**.  
 I love building efficient, scalable, and user-friendly applications.  
 
 ![GitHub followers](https://img.shields.io/github/followers/Vinss-Store?style=social)  
@@ -32,15 +32,15 @@ I love building efficient, scalable, and user-friendly applications.
 
 ## 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinss-Store&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinss-Store&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🌐 Connect with Me  
 <div align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://instagram.com/@vinss_no_toxic)">
+  <a href="[https://instagram.com/@vinss_no_toxic](https://instagram.com/@vinss_no_toxic)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=instagram" alt="https://instagram.com/@vinss_no_toxic" />
   </a>
   <a href="https://youtube.com/@VinssBotz">
