@@ -1,7 +1,11 @@
-# Hi there! 👋  
+<div align="center">
+  <img src="https://telegra.ph/file/23338495fa3c2f0f7a531.jpg" alt="Profil Picture" width="150" style="border-radius: 50%;">
+</div>
 
-I'm **[Vinss Students]**, a passionate software developer specializing in **Flutter** and **Full-Stack Development**.  
-I love building efficient, scalable, and user-friendly applications.  
+# Halo! 👋  
+
+Saya **[Vinss Students]**, seorang pengembang perangkat lunak yang bersemangat dalam bidang **Flutter** dan **Pengembangan Full-Stack**.  
+Saya suka membangun aplikasi yang efisien, skalabel, dan ramah pengguna.  
 
 ![GitHub followers](https://img.shields.io/github/followers/Vinss-Store?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/Vinss-Store?style=social)  
@@ -9,28 +13,28 @@ I love building efficient, scalable, and user-friendly applications.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&background=FFFFFF00&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Profile!;I+Build+Awesome+Apps!;Let's+Collaborate+Together!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&background=FFFFFF00&center=true&vCenter=true&lines=Selamat+Datang+di+Profil+GitHub+Saya!;Saya+Membangun+Aplikasi+Keren!;Mari+Berinovasi+Bersama!" alt="Typing Animation">
 </div>
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **[Your Project Name](https://github.com/your-username/your-project-repo)**  
-- 🌱 I’m learning **[Technology or Skills]**  
-- 💬 Ask me about **Flutter**, **Dart**, and **Open Source**  
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
-- 🌍 Visit my portfolio: **[your-portfolio-link](https://your-portfolio.com)**  
+## 🚀 Tentang Saya  
+- 🔭 Saat ini saya sedang mengerjakan **[Nama Proyek Anda](https://github.com/your-username/your-project-repo)**  
+- 🌱 Saya sedang mempelajari **[Teknologi atau Keahlian]**  
+- 💬 Tanya saya tentang **Flutter**, **Dart**, dan **Open Source**  
+- 📫 Hubungi saya di: **[vinss.students@gmail.com](mailto:vinss.students@gmail.com)**  
+- 🌍 Kunjungi portofolio saya: **[vinss.vercel.app](https://vinss.vercel.app)**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Teknologi yang Saya Gunakan  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,js,react,nodejs,python,git,docker,firebase" alt="Tech Stack" />
 </div>  
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 Statistik GitHub  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinss-Store&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinss-Store&layout=compact&theme=radical" alt="Top Languages" />
@@ -38,15 +42,15 @@ I love building efficient, scalable, and user-friendly applications.
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Hubungi Saya  
 <div align="center">
-  <a href="[https://instagram.com/@vinss_no_toxic](https://instagram.com/@vinss_no_toxic)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=instagram" alt="https://instagram.com/@vinss_no_toxic" />
+  <a href="https://instagram.com/@vinss_no_toxic">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@VinssBotz">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube" />
   </a>
   <a href="https://vinss.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-Portofolio-blue?style=flat-square" alt="Portfolio" />
   </a>
 </div>
