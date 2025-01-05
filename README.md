@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://telegra.ph/file/23338495fa3c2f0f7a531.jpg" alt="Profil Picture" width="150" style="border-radius: 50%;">
+  <img src="https://telegra.ph/file/23338495fa3c2f0f7a531.jpg" alt="Profil Picture" width="200" style="border-radius: 50%;">
 </div>
 
 # Halo! 👋  
