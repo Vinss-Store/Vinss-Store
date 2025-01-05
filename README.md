@@ -3,8 +3,8 @@
 I'm **[Your Name]**, a passionate software developer specializing in **Flutter** and **Full-Stack Development**.  
 I love building efficient, scalable, and user-friendly applications.  
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)  
+![GitHub followers](https://img.shields.io/github/followers/Vinss-Store?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/Vinss-Store?style=social)  
 
 ---
 
@@ -40,13 +40,13 @@ I love building efficient, scalable, and user-friendly applications.
 
 ## 🌐 Connect with Me  
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  <a href="[https://linkedin.com/in/your-profile](https://instagram.com/@vinss_no_toxic)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=instagram" alt="https://instagram.com/@vinss_no_toxic" />
   </a>
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter" />
+  <a href="https://youtube.com/@VinssBotz">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://vinss.vercel.app/">
     <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square" alt="Portfolio" />
   </a>
 </div>
