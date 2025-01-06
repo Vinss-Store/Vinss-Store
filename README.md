@@ -22,7 +22,7 @@ Saya suka membangun aplikasi yang efisien, skalabel, dan ramah pengguna.
 - 🔭 Saat ini saya sedang mengerjakan **[Sistem Academic](https://github.com/Vinss-Store/Sistem-Academic)**  
 - 🌱 Saya sedang mempelajari **[Teknologi atau Keahlian]**  
 - 💬 Tanya saya tentang **Flutter**, **Dart**, dan **Open Source**  
-- 📫 Hubungi saya di: **[vinss.students@gmail.com](mailto:vinssboyz@gmail.com)**  
+- 📫 Hubungi saya di: **[https://instagram.com/@vinss_no_toxic](mailto:vinssboyz@gmail.com)**  
 - 🌍 Kunjungi portofolio saya: **[vinss.vercel.app](https://vinss.vercel.app)**  
 
 ---
