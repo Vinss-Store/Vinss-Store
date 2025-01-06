@@ -4,7 +4,7 @@
 
 # Halo! 👋  
 
-Saya **[Vinss Students]**, seorang pengembang perangkat lunak yang bersemangat dalam bidang **Flutter** dan **Pengembangan Full-Stack**.  
+Saya **Vinss Students**, seorang pengembang perangkat lunak yang bersemangat dalam bidang **Flutter** dan **Pengembangan Full-Stack**.  
 Saya suka membangun aplikasi yang efisien, skalabel, dan ramah pengguna.  
 
 ![GitHub followers](https://img.shields.io/github/followers/Vinss-Store?style=social)  
