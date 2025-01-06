@@ -13,7 +13,7 @@ Saya suka membangun aplikasi yang efisien, skalabel, dan ramah pengguna.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&background=FFFFFF00&center=true&vCenter=true&lines=Selamat+Datang;di+Profile+GitHub+Saya!;Saya+Membangun+Aplikasi+Keren!;Mari+Berinovasi+Bersama!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&background=FFFFFF00&center=true&vCenter=true&lines=Selamat+Datang;di+Profile+GitHub+Saya!;Saya+Membangun+Aplikasi!;Sangat+Keren;Mari+Berinovasi+Bersama!" alt="Typing Animation">
 </div>
 
 ---
