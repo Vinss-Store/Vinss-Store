@@ -23,7 +23,7 @@ Saya suka membangun aplikasi yang efisien, skalabel, dan ramah pengguna.
 - 🌱 Saya sedang mempelajari **[Teknologi atau Keahlian]**  
 - 💬 Tanya saya tentang **Flutter**, **Dart**, dan **Open Source**  
 - 📫 Hubungi saya di: **[https://instagram.com/@vinss_no_toxic](mailto:vinssboyz@gmail.com)**  
-- 🌍 Kunjungi portofolio saya: **[vinss.vercel.app](https://vinss.vercel.app)**  
+- 🌍 Kunjungi portofolio saya: **[vinss.vercel.app](https://vinss-dev.kesug.com/)**  
 
 ---
 
@@ -44,13 +44,13 @@ Saya suka membangun aplikasi yang efisien, skalabel, dan ramah pengguna.
 
 ## 🌐 Hubungi Saya  
 <div align="center">
-  <a href="https://instagram.com/@vinss_no_toxic">
+  <a href="https://instagram.com/@vinssboyz.id">
     <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@VinssBotz">
     <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://vinss.vercel.app/">
+  <a href="[https://vinss.vercel.app/](https://vinss-dev.kesug.com/)">
     <img src="https://img.shields.io/badge/Website-Portofolio-blue?style=flat-square" alt="Portfolio" />
   </a>
 </div>
