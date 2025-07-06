@@ -100,6 +100,19 @@ console.log("Let's build something amazing together! 🚀");
         <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de85-4dfe-9caf-b8a9d8d5c1e0.gif" width="280">
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>💡 Sistem Pendukung keputusan </h3>
+        <a href="https://github.com/Vinss-Store/Sistem-Academic">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinss-Store&repo=Aplikasi-Spk&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="Sistem Academic"/>
+        </a>
+        <br>
+        <strong>Flutter • Firebase • Modern UI/UX</strong>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de85-4dfe-9caf-b8a9d8d5c1e0.gif" width="280">
+      </td>
+    </tr>
   </table>
 </div>
 
