@@ -11,33 +11,72 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 700px;">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **About Me**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding gif" />
+<table>
+<tr>
+<td width="50%">
 
 ```javascript
 const vinss = {
     name: "Vinss Students",
     role: "Full Stack Developer",
     location: "Indonesia 🇮🇩",
-    languages: ["JavaScript", "Dart", "Python", "TypeScript"],
+    languages: [
+        "JavaScript", 
+        "Dart", 
+        "Python", 
+        "TypeScript"
+    ],
     technologies: {
-        mobile: ["Flutter", "React Native"],
-        frontend: ["React", "Vue.js", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express", "Firebase"],
-        database: ["MongoDB", "PostgreSQL", "Firestore"],
-        tools: ["Git", "Docker", "VS Code", "Figma"]
+        mobile: [
+            "Flutter", 
+            "React Native"
+        ],
+        frontend: [
+            "React", 
+            "Vue.js", 
+            "HTML5", 
+            "CSS3"
+        ],
+        backend: [
+            "Node.js", 
+            "Express", 
+            "Firebase"
+        ],
+        database: [
+            "MongoDB", 
+            "PostgreSQL", 
+            "Firestore"
+        ],
+        tools: [
+            "Git", 
+            "Docker", 
+            "VS Code", 
+            "Figma"
+        ]
     },
     currentFocus: "Building scalable mobile applications",
     funFact: "I debug with console.log() and I'm proud of it! 😎"
 };
 ```
 
+</td>
+<td width="50%">
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="max-width: 300px;" alt="Coding gif" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="max-width: 500px;">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> **Current Projects**
@@ -49,7 +88,7 @@ const vinss = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" style="max-width: 500px;">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> **Tech Arsenal**
@@ -70,41 +109,43 @@ const vinss = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de85-4dfe-9caf-b8a9d8d5c1e0.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de85-4dfe-9caf-b8a9d8d5c1e0.gif" width="100%" style="max-width: 500px;">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinss-Store&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinss-Store&theme=tokyonight" alt="Profile Summary" width="100%" style="max-width: 900px;"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinss-Store&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinss-Store&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinss-Store&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinss-Store&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" width="100%" style="max-width: 900px;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinss-Store&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinss-Store&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinss-Store&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vinss-Store&theme=tokyonight&hide_border=true&border_radius=10" alt="WakaTime Stats" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinss-Store&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f9a5.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f9a5.gif" width="100%" style="max-width: 500px;">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinss-Store&custom_title=Vinss%20Students%20Contribution%20Graph&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinss-Store&custom_title=Vinss%20Students%20Contribution%20Graph&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" style="max-width: 900px;"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%" style="max-width: 500px;">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> **Connect With Me**
@@ -125,35 +166,21 @@ const vinss = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284077-2d28b8b4-1a31-4bca-ac71-fef3e481f25f.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284077-2d28b8b4-1a31-4bca-ac71-fef3e481f25f.gif" width="100%" style="max-width: 500px;">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Quick Facts**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
-        <br><strong>🔭 Currently Working On</strong>
-        <br>Sistem Academic Platform
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50"/>
-        <br><strong>🌱 Learning</strong>
-        <br>Advanced Flutter & AI Integration
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/>
-        <br><strong>💬 Ask Me About</strong>
-        <br>Flutter, Dart, Open Source
-      </td>
-    </tr>
-  </table>
+  
+| 🔭 **Currently Working On** | 🌱 **Learning** | 💬 **Ask Me About** |
+|:---:|:---:|:---:|
+| <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/><br>Sistem Academic Platform | <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"/><br>Advanced Flutter & AI Integration | <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"/><br>Flutter, Dart, Open Source |
+
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="max-width: 500px;">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> **Support My Work**
@@ -172,7 +199,7 @@ const vinss = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de85-4dfe-9caf-b8a9d8d5c1e0.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de85-4dfe-9caf-b8a9d8d5c1e0.gif" width="100%" style="max-width: 500px;">
 </div>
 
 <div align="center">
