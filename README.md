@@ -157,8 +157,8 @@ const vinss = {
   <a href="https://youtube.com/@VinssBotz">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
   </a>
-  <a href="https://vinss-dev.kesug.com/">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00D9FF" alt="Portfolio"/>
+  <a href="https://chat.whatsapp.com/BZGh46Phw8F5zySRXX0Lkg">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00D9FF" alt="Learn Mobile Developer"/>
   </a>
   <a href="mailto:vinssboyz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
