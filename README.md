@@ -154,7 +154,7 @@ console.log("Let's build something amazing together! 🚀");
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
+  <img src="https://imgur.com/pFuwniA.png" width="500">
 </div>
 
 ---
