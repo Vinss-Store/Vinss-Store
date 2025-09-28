@@ -63,7 +63,7 @@ const vinss = {
 ## 📱 Mari Terhubung
 
 <div align="center">
-  <a href="https://instagram.com/@vinssboyz.id">
+  <a href="https://instagram.com/@kahfi404.id">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@VinssBotz">
