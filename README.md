@@ -12,32 +12,88 @@
 
 ---
 
-## 🎯 Tentang Saya
+## 🎯 Profil Saya
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-**Halo! Saya Vinss Students** 👨‍💻
+### 👨‍💻 Halo! Saya Vinss Students
 
-Seorang **Pengembang Full Stack** yang passionate dalam menciptakan solusi digital inovatif. Berpengalaman dalam membangun aplikasi mobile dan web yang scalable dengan fokus utama pada ekosistem Flutter.
+> *"Mengubah ide menjadi realitas digital"*
+
+🚀 Seorang **Pengembang Full Stack** yang passionate dalam menciptakan solusi digital inovatif dan berdampak. Dengan pengalaman mendalam dalam ekosistem Flutter dan teknologi modern, saya fokus membangun aplikasi yang tidak hanya fungsional, tapi juga memberikan pengalaman pengguna yang luar biasa.
+
+### 🌟 **Keahlian Utama:**
+- 📱 **Mobile Development** dengan Flutter & Dart
+- 🌐 **Web Development** dengan React & Node.js  
+- 🔥 **Backend Systems** dengan Firebase & MongoDB
+- 🎨 **UI/UX Design** yang user-friendly
+
+### 🎯 **Misi Saya:**
+Membantu bisnis dan individu mewujudkan visi digital mereka melalui teknologi terdepan dan solusi yang scalable.
 
 </td>
-<td width="50%">
+<td width="45%">
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+
+</div>
 
 ```javascript
 const profilVinss = {
   nama: "Vinss Students",
   lokasi: "Indonesia 🇮🇩",
-  peran: "Pengembang Full Stack",
-  passion: "Pengembangan Mobile & Web",
-  motto: "Ngoding dengan Tujuan 🎯"
+  peran: "Full Stack Developer",
+  spesialisasi: ["Flutter", "React", "Node.js"],
+  pengalaman: "3+ tahun",
+  passion: "Mobile & Web Innovation",
+  status: "Available for hire 💼",
+  motto: "Code with Purpose & Passion 🔥"
 };
+
+console.log("Mari berkolaborasi! 🤝");
 ```
+
+<div align="center">
+  
+  ![](https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square&logo=calendar&logoColor=white)
+  ![](https://img.shields.io/badge/Projects-50%2B%20Completed-green?style=flat-square&logo=checkmark&logoColor=white)
+  ![](https://img.shields.io/badge/Focus-Mobile%20First-orange?style=flat-square&logo=mobile&logoColor=white)
+
+</div>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+  
+  ### 🏆 Pencapaian & Minat
+  
+  ```yaml
+  🎯 Fokus Saat Ini:
+    • Advanced Flutter Architecture & Clean Code
+    • Microservices dengan Node.js
+    • AI Integration dalam Mobile Apps
+    • Performance Optimization
+  
+  🚀 Goals 2024:
+    • Kontribusi Open Source Projects
+    • Tech Speaker di Community Events  
+    • Mentoring Developer Pemula
+    • Build Startup Products
+  ```
+  
+</div>
 
 ---
 
